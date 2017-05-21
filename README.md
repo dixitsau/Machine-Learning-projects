@@ -1,5 +1,5 @@
 # Machine-Learning-projects
-This repository lists some personal ML projects done as part of MOOCs and open source
+This repository lists some personal ML projects done as part of MOOCs and open source projects
 
 Description:
 
